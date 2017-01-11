@@ -1,7 +1,11 @@
+    body {
+      font-family: "Helvetica";
+    }
+
     header {
       text-align: center;
-      background: url("images/banner.jpg");
-      background-size: cover;
+      background: url("http://www.tate.org.uk/art/images/work/P/P78/P78387_10.jpg");
+      background-size: contain;
       color: white;
     }
     .nav {
